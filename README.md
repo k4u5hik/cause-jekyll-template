@@ -11,7 +11,14 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Ac
 
 ## Features
 
-* Pre-built pages
+* * Pre-built pages
+* Pre-styled components
+* Configurable footer
+* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
+* SEO tags
+* Google Analytics
+* [Donorbox](https://donorbox.org/)
+* [MailChimp](https://mailchimp.com/)Pre-built pages
 * Pre-styled components
 * Configurable footer
 * Optimised for editing in [CloudCannon](http://cloudcannon.com/)
